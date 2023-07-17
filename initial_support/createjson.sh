@@ -3,11 +3,11 @@
 
 #modify values below
 #leave blank if not used
-maintainer="Name (nickname)" #ex: Lup Gabriel (gwolfu)
-oem="OEM" #ex: OnePlus
-device="device codename" #ex: guacamole
-devicename="name of device" #ex: OnePlus 7 Pro
-zip="voltage zip" #ex: voltageos-<android version>-<date>-<device codename>-v<voltage version>.zip
+maintainer="TogoFire"
+oem="Xiaomi"
+device="daisy"
+devicename="Mi A2 Lite"
+zip="voltage-2.6-daisy-20230714-1715-OFFICIAL.zip"
 
 #don't modify from here
 script_path="`dirname \"$0\"`"
