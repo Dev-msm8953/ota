@@ -7,7 +7,7 @@ maintainer="TogoFire"
 oem="Xiaomi"
 device="daisy"
 devicename="Mi A2 Lite"
-zip="voltage-2.7-daisy-20230824-2254-OFFICIAL.zip"
+zip="voltage-2.8-EOL-daisy-20230930-1802-OFFICIAL.zip"
 
 #don't modify from here
 script_path="`dirname \"$0\"`"
